@@ -1,0 +1,13 @@
+# AWS / deployment artifacts
+*.pem
+deployment-info.txt
+.env
+.env.*
+credentials
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
